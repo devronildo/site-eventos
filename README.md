@@ -1,6 +1,6 @@
 # site-eventos
 
-Site de um evento para festa e comemorações.
+Site de um evento para festa e comemorações com animações.
 
 ## Tecnologias utilizadas.
 
